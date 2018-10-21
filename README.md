@@ -6,7 +6,7 @@ To download the Zip file [click here](https://github.com/cunninghamp/Start-MailG
 For usage instructions go to:
 http://exchangeserverpro.com/test-lab-email-traffic-generator-powershell-script/
 
-##Credits
+## Credits
 Written by: Paul Cunningham
 
 Find me on:
