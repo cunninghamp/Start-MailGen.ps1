@@ -27,9 +27,14 @@ Installation instructions:
 http://exchangeserverpro.com/exchange-2010-test-lab-email-script
 
 .NOTES
-Written By: Paul Cunningham
-Website:	http://exchangeserverpro.com
-Twitter:	http://twitter.com/exchservpro
+Written by: Paul Cunningham
+
+Find me on:
+
+* My Blog:	https://paulcunningham.me
+* Twitter:	https://twitter.com/paulcunningham
+* LinkedIn:	https://au.linkedin.com/in/cunninghamp/
+* Github:	https://github.com/cunninghamp
 
 Additional Credits:
 Dave - for pointing out random mailbox selection error
